@@ -20,7 +20,7 @@ ii) <b>data_ins</b>: each operation will be saved with tha date (yyyy,mm,dd, hh:
 2. All tables within the physical schema have small leters
 # Contributors
 This project is actively supported by:
-Pierluigi Cau 
-Davide Muroni
-Carlo Milesi
+<br> Pierluigi Cau 
+<br> Davide Muroni
+<br> Carlo Milesi
 
