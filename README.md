@@ -17,7 +17,7 @@ A few important changes have been applied to the ODM2 schema:
 1. all tables have 2 new fields: 
 i) <b>active</b>: a boolean field used for delete operations or change operations. No real delete/edit operation will be applied to the data, but a 0 will be applied to the row that is updated or deleted. In case of update operation a new row will be created and  the "active" field will be set to 1. 
 ii) <b>data_ins</b>: each operation will be saved with tha date (yyyy,mm,dd, hh:mm) of the data entry.
-2. All tables within the physical schema have small leters
+2. All tables within the physical schema have small letters.
 # Contributors
 This project is actively supported by:
 <br> Pierluigi Cau 
