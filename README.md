@@ -5,7 +5,7 @@ ODM APP exposes an environment to insert and manage O&M data. Namely Update, Ins
 # Objectives
 The ODM2 App's goal is to provide an information system to connect to the ODM2 data model. The APP exposes an environment to insert and manage O&M data. The physical ODM2 tables exploited by the App comprises Core, Sampling features, Provenance, Results. ODM2 App is a modular ecosystem that can be further developed and extended to manage the spatially-discrete, feature-based earth observations.
 # The App / Project
-The App has been developed using the Alto framework, namely ALto. This is a full-stack, modular, development framework to design and develop professional Web information systems, services, and dynamic applications for advanced analysis and reporting. 
+The App has been developed using the <a href="http://www.altoframework.com/">Alto framework, namely ALto</a>. This is a full-stack, modular, development framework to design and develop professional Web information systems, services, and dynamic applications for advanced analysis and reporting. 
 Alto exposes:
 a user friendly web editor with a powerful GUI.
 a fast and flexible processing system for application development.
