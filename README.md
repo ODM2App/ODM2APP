@@ -12,9 +12,8 @@ ii) a fast and flexible processing system for application development;
 iii) a suite of widget engines to create complex HTML objects such as GIS maps, tables, graphs, search emgines, forms, etc.;
 iv) a distributed Collaborative Working Environment where large communities can cooperatively create Web applications.
 The project is distributed as: 
-<ol>
   <li>Json file (this can be loadd to ALto for further development or customization);</li>
-</ol>
+
 # Variations to the ODM2 schema
 A few important changes have been applied to the ODM2 schema:
 1. all tables have 2 new fields: 
