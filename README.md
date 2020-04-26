@@ -14,7 +14,8 @@ iv) a distributed Collaborative Working Environment where large communities can 
 The project is distributed as: 
   <li> a Json file (this can be loaded to Alto for further development or customization);</li>
   <li> a WAR file (this can be directly deployed to and web application container such as Tomcat or JBOSS);</li>
-  <li> a Docker (this is a ready to use VM) to be exposed on the web </li>
+  <li> a Docker (this is a ready to use VM) to be exposed on the web. </li>
+  
 # Variations to the ODM2 schema
 A few important changes have been applied to the ODM2 schema:
 1. all tables have 2 new fields: 
