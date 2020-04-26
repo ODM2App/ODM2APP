@@ -1,7 +1,7 @@
 # ODM2APP
-ODM2 APP is a software ecosystem for the management of the <b>Observations & Measurements (O&M)</b>, based on the Observation Data Model 2 (<a href="https://github.com/ODM2">ODM2</a>).
-This is an information data model for feature-based earth observations, designed to facilitate interoperability across scientific disciplines and domain cyberinfrastructures (read more <a href="https://www.sciencedirect.com/science/article/pii/S1364815216300093">here</a>). The ODM2 data model is supported by the Open Geospatial Consortium's (OGC).
-ODM APP exposes an environment to insert and manage O&M data. Namely Update, Insert and Delete operations are possible. PostgreSQL/PostGIS is the RDBMS engine that hosts the physical implementation of the ODM2. 
+ODM2 APP is a software ecosystem for the management of  <b>Observations & Measurements (O&M)</b>, based on the Observation Data Model 2 (<a href="https://github.com/ODM2">ODM2</a>).
+This is an information data model for feature-based earth observations, designed to facilitate interoperability across scientific disciplines and domain cyberinfrastructures (read more <a href="https://www.sciencedirect.com/science/article/pii/S1364815216300093">here</a>). The Open Geospatial Consortium also published a conceptual model (ISO Observations and Measurements (O&M) conceptual model O&M, published also as ISO/DIS 19156).
+ODM2APP exposes an environment to insert and manage O&M data, based on the (<a href="https://github.com/ODM2">ODM2</a>). Namely Update, Insert and Delete operations are possible. PostgreSQL/PostGIS is the RDBMS engine that hosts the physical implementation of the database. 
 # Objectives
 The ODM2 App's goal is to ease the use and maintanance of O&M data, based on the ODM2 data model. ODM2APP is a web-based information system that exposes an environment to insert, manage the O&M data and ease the report production mechanism. The physical ODM2 tables exploited by the App comprises Core, Sampling features, Provenance, Results. ODM2 App is a modular ecosystem that can be further developed and extended to manage any spatially-discrete, feature-based earth observations.
 # The App / Project
