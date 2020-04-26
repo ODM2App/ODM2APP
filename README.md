@@ -14,7 +14,7 @@ iv) a distributed Collaborative Working Environment where large communities can 
 The project is distributed as: 
 <ol>
   <li> a Json file (this can be loaded to Alto for further development or customization);</li>
-  <li> a WAR file (this can be directly deployed to and web application container such as Tomcat or JBOSS);</li>
+  <li> a WAR file (this can be directly deployed to the web application container (e.g. Tomcat or JBOSS));</li>
   <li> a Docker (this is a ready to use VM) to be exposed on the web. </li>
 </ol>  
 
