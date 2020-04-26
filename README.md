@@ -23,4 +23,6 @@ This project is actively supported by:
 <br> Pierluigi Cau 
 <br> Davide Muroni
 <br> Carlo Milesi
+<br> Amin Hammami
+<br> Paweł Wcisło 
 
