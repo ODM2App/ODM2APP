@@ -12,14 +12,15 @@ ii) a fast and flexible processing system for application development;
 iii) a suite of widget engines to create complex HTML objects such as GIS maps, tables, graphs, search emgines, forms, etc.;
 iv) a distributed Collaborative Working Environment where large communities can cooperatively create Web applications.
 The project is distributed as: 
-  <li>Json file (this can be loadd to ALto for further development or customization);</li>
-
+  <li> a Json file (this can be loaded to Alto for further development or customization);</li>
+  <li> a WAR file (this can be directly deployed to and web application container such as Tomcat or JBOSS);</li>
+  <li> a Docker (this is a ready to use VM) to be exposed on the web
 # Variations to the ODM2 schema
 A few important changes have been applied to the ODM2 schema:
 1. all tables have 2 new fields: 
 <br> i) <b>active</b>: a boolean field used for delete operations or change operations. No real delete/edit operation will be applied to the data, but a 0 will be applied to the row that is updated or deleted. In case of update operation a new row will be created and the "active" field will be set to 1. 
-<br> ii) <b>date_ins</b>: each operation will be saved with tha date (yyyy,mm,dd, hh:mm) of the data entry.
-<br> iii) <b>id_user_ins</b> this field is used to record the user that has done the change/insert operation.
+<br> ii) <b> date_ins</b>: each operation will be saved with tha date (yyyy,mm,dd, hh:mm) of the data entry.
+<br> iii) <b> id_user_ins</b> this field is used to record the user that has done the change/insert operation.
 2. All tables within the physical schema have small letters.
 <br> The changes were made necessary to meet the needs of enterprise organizations deputed to the characterization and monitoring of various media (air, soil, water, etc.), crops cycle, etc. A key question that we are addressing is to guarantee quality. The quality procedure is the heart and soul of our data management system. The APP quality procedures establish processes that make sure everything is performed according expectations and at any moment it is possibe to view what changes, when and who performed the changes to the O&M data. 
 # Contributors
