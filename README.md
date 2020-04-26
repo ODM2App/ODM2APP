@@ -7,11 +7,14 @@ The ODM2 App's goal is to provide an information system to connect to the ODM2 d
 # The App / Project
 The App has been developed using the <a href="http://www.altoframework.com/">Alto framework</a>, namely Alto. This is an enterprise, full-stack, modular, low code development framework to design and develop professional Web information systems, services, and dynamic applications for advanced analysis and reporting. 
 Alto exposes:
-a user friendly web editor with a powerful GUI.
-a fast and flexible processing system for application development.
-a suite of widget engines to create complex HTML objects such as GIS maps, tables, graphs, search emgines, forms, etc.
-a distributed Collaborative Working Environment where large communities can cooperatively create Web applications.
-Alto transparently combines, in one space, technologies to access, query and process complex data infrastructures, thus increasing the interoperability between applications.
+i) a user friendly web editor with a powerful GUI;
+ii) a fast and flexible processing system for application development;
+iii) a suite of widget engines to create complex HTML objects such as GIS maps, tables, graphs, search emgines, forms, etc.;
+iv) a distributed Collaborative Working Environment where large communities can cooperatively create Web applications.
+The project is distributed as: 
+<ol>
+  <li>Json file (this can be loadd to ALto for further development or customization);</li>
+</ol>
 # Variations to the ODM2 schema
 A few important changes have been applied to the ODM2 schema:
 1. all tables have 2 new fields: 
