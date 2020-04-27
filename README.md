@@ -35,3 +35,5 @@ This project is actively supported by:
 <br> Amin Hammami
 <br> Paweł Wcisło 
 
+# Copyright and license
+Licensed under the <a href="https://github.com/snapappointments/bootstrap-select/blob/v1.13.0-dev/"> LICENSEMIT license</a>.
