@@ -36,4 +36,4 @@ This project is actively supported by:
 <br> Paweł Wcisło 
 
 # License
-Licensed under the <a href="https://github.com/snapappointments/bootstrap-select/blob/v1.13.0-dev/"> the MIT LICENSE</a>.
+Licensed under the <a href="https://github.com/snapappointments/bootstrap-select/blob/v1.13.0-dev/"> MIT LICENSE</a>.
